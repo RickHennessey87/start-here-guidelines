@@ -10,6 +10,8 @@
   
 - [Krish Soni](https://github.com/krishvsoni)
 
+- [Patrick Hennessey] (https://github.com/RickHennessey87)
+
 - [Reesu Jagan](https://github.com/codejay12)
 
 - [tfernandez2017] (https://github.com/tfernandez2017)
